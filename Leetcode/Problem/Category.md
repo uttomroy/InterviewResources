@@ -8,8 +8,8 @@
 - Longest Happy String ([1405](https://leetcode.com/problems/longest-happy-string/)) - Microsoft
 
 **Floyd Cycle Finding Algorithm**
-- Find the Duplicate Number ([287](https://leetcode.com/problems/find-the-duplicate-number/)
-- Linked List Cycle II ([142](https://leetcode.com/problems/linked-list-cycle-ii/)
+- Find the Duplicate Number ([287](https://leetcode.com/problems/find-the-duplicate-number/))
+- Linked List Cycle II ([142](https://leetcode.com/problems/linked-list-cycle-ii/))
 
 **Linked List**
-- LRU Cache ([146](https://leetcode.com/problems/lru-cache/)
+- LRU Cache ([146](https://leetcode.com/problems/lru-cache/))
