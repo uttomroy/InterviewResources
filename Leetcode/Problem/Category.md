@@ -19,5 +19,5 @@
 
 **Tree Traversal**
 - Find Duplicate Subtrees ([652](https://leetcode.com/problems/find-duplicate-subtrees/))
-- Serialize and Deserialize Binary Tree ([297](Serialize and Deserialize Binary Tree/))
+- Serialize and Deserialize Binary Tree ([297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/))
 - Serialize and Deserialize BST ([449](https://leetcode.com/problems/serialize-and-deserialize-bst/))
