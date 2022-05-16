@@ -26,3 +26,7 @@
 - Binary Tree Right Side View ([199](https://leetcode.com/problems/binary-tree-right-side-view/))
 - Populating Next Right Pointers in Each Node ([116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/), [117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/))
 - Lowest common ancestor of a binary tree ([1650](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/))
+- Unique Binary Search Trees II ([95](https://leetcode.com/problems/unique-binary-search-trees-ii/), [96](https://leetcode.com/problems/unique-binary-search-trees/))
+- Count Complete Tree Nodes ([222](https://leetcode.com/problems/count-complete-tree-nodes/))
+- Closest Binary Search Tree Value II ([222](https://leetcode.com/problems/closest-binary-search-tree-value-ii/))
+- Sum of Distances in Tree ([834](https://leetcode.com/problems/sum-of-distances-in-tree/))
