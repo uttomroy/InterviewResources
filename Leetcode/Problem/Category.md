@@ -36,3 +36,6 @@
 
 **Two Pointer**
 - Search Suggestions System ([1268](https://leetcode.com/problems/search-suggestions-system/)) - VVI
+
+**DP**
+- Concatenated Words [427](https://leetcode.com/problems/concatenated-words/submissions/)
