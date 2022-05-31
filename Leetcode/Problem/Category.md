@@ -44,4 +44,4 @@
 - Divide Two Integers [29](https://leetcode.com/problems/divide-two-integers/)
 
 **Scheduling**
-- Meeting room ([I](https://leetcode.com/problems/meeting-rooms/), [II](https://leetcode.com/problems/meeting-rooms-ii/))
+- Meeting room ([I](https://leetcode.com/problems/meeting-rooms/), [II](https://leetcode.com/problems/meeting-rooms-ii/), [III](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/))
