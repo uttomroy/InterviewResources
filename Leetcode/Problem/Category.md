@@ -42,3 +42,6 @@
 
 **Overflow**
 - Divide Two Integers [29](https://leetcode.com/problems/divide-two-integers/)
+
+**Scheduling**
+- Meeting room ([I](https://leetcode.com/problems/meeting-rooms/), [II](https://leetcode.com/problems/meeting-rooms-ii/))
