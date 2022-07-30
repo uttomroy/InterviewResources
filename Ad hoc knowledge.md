@@ -2,3 +2,6 @@
 2. GraphQL
 3. Hadoop
 4. Docker
+5. Open API Spec
+6. SWashBuckle
+7. NSwag
