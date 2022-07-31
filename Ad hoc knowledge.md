@@ -6,3 +6,4 @@
 6. SWashBuckle
 7. NSwag
 8. IIS vs Kestral
+9. Kafka
