@@ -4,3 +4,11 @@ git commit -m 'git message'
 git push origin branch_name
 git checkout -b branchname
 git restore --staged filename or .
+git log
+git status
+git rm filename
+git touch newfile
+git reset head~n
+git rebase master
+git pull
+git fetch --all
