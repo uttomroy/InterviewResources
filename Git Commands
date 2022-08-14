@@ -12,3 +12,4 @@ git reset head~n
 git rebase master
 git pull
 git fetch --all
+git rebase -i head~n // for squash
