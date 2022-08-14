@@ -1,1 +1,6 @@
 Get Git URL : git remote get-url origin
+git add: to add file into the staging area
+git commit -m 'git message'
+git push origin branch_name
+git checkout -b branchname
+git restore --staged filename or .
