@@ -14,3 +14,4 @@ git pull
 git fetch --all
 git rebase -i head~n // for squash
 git push -f origin branchname // for force push
+git merge branchname
