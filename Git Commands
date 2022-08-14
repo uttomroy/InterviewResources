@@ -15,3 +15,8 @@ git fetch --all
 git rebase -i head~n // for squash
 git push -f origin branchname // for force push
 git merge branchname
+git config user.name name // for local
+git config user.email email // for local
+git config --global user.name name // for global
+git config --global user.email email // for global
+git diff
