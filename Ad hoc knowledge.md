@@ -7,3 +7,4 @@
 7. NSwag
 8. IIS vs Kestral
 9. Kafka
+10. How to setup Authentication/authorization in asp.net core using JWT
