@@ -10,3 +10,4 @@
 10. How to setup Authentication/authorization in asp.net core using JWT
 11. XSRF (Cross site request forgery)
 12. How JWT works
+13. Role vs Claim based authorization
