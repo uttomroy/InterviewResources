@@ -11,3 +11,4 @@
 11. XSRF (Cross site request forgery)
 12. How JWT works
 13. Role vs Claim based authorization
+14. Middlware in asp.net core
