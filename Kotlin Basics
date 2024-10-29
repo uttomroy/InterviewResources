@@ -1,0 +1,6 @@
+Required function for String processing
+length -> to return the length of the string
+split(" ") -> split the string base on given delimeter
+joinToString("") -> Join the list elements by given delimeter
+
+
