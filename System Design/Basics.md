@@ -8,4 +8,5 @@
 **Message Broker**
 - RabitMQ
 - Kafka
-- Difference between two things
+- Difference between two things <br>
+![Rabbit MQ vs Kafka](https://github.com/uttomroy/InterviewResources/blob/main/Assets/KHpje.png)
