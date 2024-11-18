@@ -10,3 +10,7 @@
 - Kafka
 - Difference between two things <br>
 ![Rabbit MQ vs Kafka](https://github.com/uttomroy/InterviewResources/blob/main/Assets/KHpje.png)
+
+
+**Distributed System**
+- Two phase commit
