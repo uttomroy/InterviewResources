@@ -14,8 +14,12 @@
 - contains("")
 
 ### Range Function:
-- 1..9 -> loop will iterate from 1 to 9<br /> 
+- 1..9 -> loop will iterate from 1 to 9<br />
+- 1 until 9 -> loop will iterate from 1 to 8<br /> 
 - 9 downTo 1 -> loop will iterate from 9 to 1<br />
+
+### Collection
+- HashMap, TreeMap, LinkedListMap implements MutableMap interface. Where HashMap doesn't maintain order, LinkedListMap maintains insertion order and tree map maintains sorted order 
 
 ### Kotlin Co Routine
 - In Kotlin, a coroutine is a concurrency design pattern that you can use on the JVM to simplify code that executes asynchronously. Coroutines are a powerful feature that allows you to write asynchronous, non-blocking code in a sequential style, making it easier to read and maintain.
