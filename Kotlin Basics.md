@@ -37,4 +37,7 @@
 - To synchronize the collection use Java.Util.Collection.SynchronizedList(listOf()), for map SynchronizedMap
 - To iterate the shared list, use synchronized(lst){ do things}
 
+### Kotlin Scope function
+- let - this is for to check the null and do some operation on the object
+
 
