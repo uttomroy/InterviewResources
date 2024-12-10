@@ -13,6 +13,12 @@
 - lastIndexOf("")
 - contains("")
 
+### Sorting Function:
+- How to sorting in Array (e.g. Array<IntArray> xx) - xx.sortWith(compareBy<IntArray>{it[0]}.thenByDescending{it[1]})
+- Another way to do by using sortBy it's subarray sum  xx.sortBy { it.sum() }
+- How to sort mutable list xx.sort()/xx.sortDescending()/xx.sortBy{}/xx.sortByDescending{}/xx.sortWith()/xx.sorted()/xx.sortedDescending()
+- How to sort immutable list xx.sortWith()/xx.sorted()/xx.sortedDescending()/xx.sortedBy{}/xx.sortedByDescending{}
+
 ### Range Function:
 - 1..9 -> loop will iterate from 1 to 9<br />
 - 1 until 9 -> loop will iterate from 1 to 8<br /> 
