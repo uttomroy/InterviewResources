@@ -14,3 +14,6 @@
 
 **Distributed System**
 - Two phase commit
+
+
+**How Elastic search Works**
