@@ -1,0 +1,2 @@
+- How HTTPS works?
+- Why public key is not enough to encrypt the data? why browsers need to create new session key to encrypt the data for HTTPS?
